@@ -35,10 +35,10 @@
 
 ## 📚 Projets notables
 
-- [**Projet Front-End – Communication avec IA (Juil. 2025)**](https://github.com/TonySaes/Projet_Ochat)  
+- [**Projet Front-End – O'Chat (Juil. 2025)**](https://github.com/TonySaes/Projet_Ochat)  
   Application responsive développée en 28h : wireframes (Figma), interface dynamique en Svelte, consommation d’une API LLM, base PocketBase.
 
-- [**Projet O’Coffee (2025)**](https://github.com/TonySaes/Ocoffee_node.js_express)  
+- [**Projet Back-End - O’Coffee (Août 2025)**](https://github.com/TonySaes/Ocoffee_node.js_express)  
   Site vitrine dynamique pour une boutique fictive de café – **Node.js/Express/EJS** et **PostgreSQL**, architecture MVC complète. 
 
 ---
