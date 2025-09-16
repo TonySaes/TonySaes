@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Tony Saes
 
-🎯 **Développeur Web Full-Stack JS** en formation chez [O’clock](https://oclock.io), actuellement à la recherche d’un **stage à partir d’Octobre 2025** à Montpellier ou ses environs, ou plus loin si vous êtes full-remote friendly.  
+🎯 **Développeur Web Full-Stack JS** en formation chez [O’clock](https://oclock.io).
 💡 Ancien infirmier diplômé d’État (2017–2024), je me reconvertis dans le développement web pour allier **rigueur, sens du service et curiosité technique**.
 
 ---
