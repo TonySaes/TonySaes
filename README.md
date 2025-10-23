@@ -17,11 +17,11 @@
 ## 🧰 Compétences techniques
 
 **Langages & outils**  
-- HTML5 / CSS3 (Sass)  
-- JavaScript (ES6+)  
+- HTML5 / CSS3 (Tailwind)  
+- JavaScript (ES6+) / Typescript 
 - Node.js / Express  
-- Framework Front-end : **Svelte**  
-- Bases de données : **SQL** & **NoSQL**  
+- Framework Front-end : **Svelte**  **React**
+- Bases de données : **SQL** 
 - API REST (conception & intégration)  
 - Docker & conteneurisation  
 
