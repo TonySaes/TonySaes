@@ -39,7 +39,13 @@
   Application responsive développée en 28h : wireframes (Figma), interface dynamique en Svelte, consommation d’une API LLM, base PocketBase.
 
 - [**Projet Back-End - O’Coffee (Août 2025)**](https://github.com/TonySaes/Ocoffee_node.js_express)  
-  Site vitrine dynamique pour une boutique fictive de café – **Node.js/Express/EJS** et **PostgreSQL**, architecture MVC complète. 
+  Site vitrine dynamique pour une boutique fictive de café – **Node.js/Express/EJS** et **PostgreSQL**, architecture MVC complète.
+
+- [**Projet Apothéose Front-end - Greenroots (Octobre 2025)**] (https://github.com/TonySaes/Apotheose-greenroots-front)
+  Projet de fin de fin de formation (E-commerce) en groupe de 5 conçu et développé en 3 semaines - **SvelteKit**, **Stripe**, **jwt-decode**, **Vitest**
+
+- [**Projet Apothéose Back-end - Greenroots (Octobre 2025)**] (https://github.com/TonySaes/Apotheose-greenroots-back)
+  Projet de fin de formation en groupe de 5 conçu et développé en 3 semaines (API REST + Back-office en ejs) - **Node.js/Express/EJS**, et **PostgreSQL/Sequelize/Joi**, **Stripe**, **express-limit-rate/express-xss-sanitizer/cors/express-session(back-office)**, documentation API avec **Swagger** 
 
 ---
 
