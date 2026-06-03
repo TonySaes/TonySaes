@@ -1,77 +1,163 @@
 # 👋 Bonjour, moi c’est Tony Saes
 
-🎯 **Développeur Web Full-Stack JS** en formation chez [O’clock](https://oclock.io).
-💡 Ancien infirmier diplômé d’État (2017–2024), je me reconvertis dans le développement web pour allier **rigueur, sens du service et curiosité technique**.
+🎯 **Développeur web JavaScript / TypeScript**
+🔎 **À la recherche d’une alternance en développement web à partir de mi-juillet 2026**
+
+Titulaire du titre professionnel **Développeur web et web mobile - RNCP niveau 5**, je poursuis ma progression vers le développement full-stack après une reconversion professionnelle et une première expérience de 7 mois chez **PranaChain**, une plateforme MedTech.
+
+Admis en **Bachelor 3 Développement web** à l’école **IRIS Montpellier**, je recherche une entreprise d’accueil en **contrat de professionnalisation**.
+
+📍 Montpellier et alentours dans un rayon d’environ 30 km, ou télétravail intégral
+🗓️ Rythme : 4 jours en entreprise / 1 jour en formation
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
-- 🔄 Reconversion réussie : de la santé au numérique  
-- 🖥️ Formation intensive labellisée Grande École du Numérique  
-- 👨‍💻 Formé au **JavaScript**, au **développement front avec Svelte**, et au **back-end Node.js/Express** ainsi qu'au **SQL** avec **SGBDR PostgreSQL** (liste non exhaustive car on apprend tous les jours) 
-- ⚡ Intérêt marqué pour les projets collaboratifs, la gestion des données, la sécurité et les bonnes pratiques (accessibilité, SEO, sécurité).
+Après plusieurs années comme infirmier puis infirmier coordinateur, j’ai choisi de me reconvertir dans le développement web.
+
+Cette première carrière m’a permis de développer des qualités directement utiles dans un environnement technique : rigueur, autonomie, communication, capacité d’adaptation et gestion de situations complexes.
+
+Au cours de mon stage chez **PranaChain**, j’ai travaillé principalement sur des interfaces en **React** et **TypeScript** pour une plateforme MedTech : création et refonte de pages, dashboards, responsive design, amélioration de parcours utilisateurs et intégration d’API REST.
+
+Je développe également mes compétences back-end à travers des projets utilisant **Node.js**, **Express**, **PostgreSQL** et la conception d’API REST.
 
 ---
 
-## 🧰 Compétences techniques
+##  Compétences techniques
 
-**Langages & outils**  
-- HTML5 / CSS3 (Tailwind)  
-- JavaScript (ES6+) / Typescript 
-- Node.js / Express  
-- Framework Front-end : **Svelte**  **React**
-- Bases de données : **SQL** 
-- API REST (conception & intégration)  
-- Docker & conteneurisation  
+### Front-end
 
-**Méthodologie & pratiques**  
-- Architecture **MVC**  
-- Versioning Git/GitHub  
-- SEO, accessibilité & performance web  
-- Travail en équipe & pair programming  
+* HTML5, CSS3, responsive design
+* JavaScript ES6+
+* TypeScript
+* React
+* Redux Toolkit
+* Svelte et SvelteKit
+* Accessibilité et SEO
+
+### Back-end
+
+* Node.js
+* Express
+* API REST
+* Authentification et gestion des accès
+* PostgreSQL
+* Sequelize
+* Modélisation de bases de données relationnelles
+
+### Outils et méthodes
+
+* Git et GitHub
+* Docker
+* Figma
+* Méthodes agiles
+* Travail collaboratif
+* Pair programming
+* Architecture MVC
+
+---
+
+##  Expérience récente
+
+### Développeur front-end — PranaChain
+
+**Stage · octobre 2025 à avril 2026**
+
+Développement et refonte d’interfaces React et TypeScript pour une plateforme MedTech.
+
+* Création de dashboards et de pages responsives
+* Intégration d’API REST et de services tiers
+* Amélioration de composants UI et de parcours utilisateurs
+* Collaboration avec les équipes produit et la direction
+
+**Technologies :** React, TypeScript, Redux Toolkit, API REST, Git
 
 ---
 
 ## 📚 Projets notables
 
-- [**Projet Front-End – O'Chat (Juil. 2025)**](https://github.com/TonySaes/Projet_Ochat)  
-  Application responsive développée en 28h : wireframes (Figma), interface dynamique en Svelte, consommation d’une API LLM, base PocketBase.
+### [GreenRoots — Front-end](https://github.com/TonySaes/Apotheose-greenroots-front)
 
-- [**Projet Back-End - O’Coffee (Août 2025)**](https://github.com/TonySaes/Ocoffee_node.js_express)  
-  Site vitrine dynamique pour une boutique fictive de café – **Node.js/Express/EJS** et **PostgreSQL**, architecture MVC complète.
+Projet de fin de formation réalisé en équipe de 5 développeurs sur une période de 3 semaines.
 
-- [**Projet Apothéose Front-end - Greenroots (Octobre 2025)**](https://github.com/TonySaes/Apotheose-greenroots-front)
-  Projet de fin de fin de formation (E-commerce) en groupe de 5 conçu et développé en 3 semaines - **SvelteKit**, **Stripe**, **jwt-decode**, **Vitest**
+Application e-commerce consacrée au financement de campagnes de plantation d’arbres.
 
-- [**Projet Apothéose Back-end - Greenroots (Octobre 2025)**](https://github.com/TonySaes/Apotheose-greenroots-back)
-  Projet de fin de formation en groupe de 5 conçu et développé en 3 semaines (API REST + Back-office en ejs) - **Node.js/Express/EJS**, et **PostgreSQL/Sequelize/Joi**, **Stripe**, **express-limit-rate/express-xss-sanitizer/cors/express-session(back-office)**, documentation API avec **Swagger** 
+**Principales fonctionnalités :**
 
----
+* Catalogue et filtres
+* Panier et liste de favoris
+* Authentification
+* Paiement Stripe
+* Interface responsive
 
-## 🤝 Soft Skills
-
-- Sens du service & de l’écoute  
-- Travail en équipe & communication  
-- Rigueur, organisation et autonomie  
-- Résolution de problèmes & adaptabilité  
+**Technologies :** SvelteKit, JavaScript, Stripe, Vitest
 
 ---
 
-## 📫 Me contacter
+### [GreenRoots — Back-end](https://github.com/TonySaes/Apotheose-greenroots-back)
 
-- ✉️ saestony.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tony-saes-3a7a92366/)  
-- 🖥️ [GitHub](https://github.com/TonySaes)  
-- 📍 Montpellier, France  
+API REST et back-office développés pour le projet GreenRoots.
+
+**Principales fonctionnalités :**
+
+* Gestion des utilisateurs et des rôles
+* Gestion des campagnes, arbres et commandes
+* Authentification JWT
+* Paiement Stripe
+* Sécurisation des requêtes
+* Documentation API
+
+**Technologies :** Node.js, Express, PostgreSQL, Sequelize, Joi, EJS, Swagger
 
 ---
 
-## 🎮 Intérêts
+### [O’Chat](https://github.com/TonySaes/Projet_Ochat)
 
-- 🎾 Tennis (loisir et compétition)  
-- 🎮 Jeux vidéo (rogue-lite, aventure)  
+Application responsive développée en 28 heures dans le cadre de ma formation.
+
+**Principales fonctionnalités :**
+
+* Conception de wireframes avec Figma
+* Interface dynamique avec Svelte
+* Consommation d’une API LLM
+* Stockage de l’historique avec PocketBase
+
+**Technologies :** Svelte, JavaScript, PocketBase, API REST
 
 ---
 
-⭐ N’hésite pas à explorer mes dépôts GitHub pour découvrir mes projets !
+### [O’Coffee](https://github.com/TonySaes/Ocoffee_node.js_express)
+
+Site vitrine dynamique développé pour une boutique fictive de café.
+
+**Principales fonctionnalités :**
+
+* Architecture MVC
+* Pages générées dynamiquement
+* Gestion des données avec PostgreSQL
+* Rendu côté serveur avec EJS
+
+**Technologies :** Node.js, Express, EJS, PostgreSQL
+
+---
+
+## 🤝 Qualités professionnelles
+
+* Rigueur et sens de l’organisation
+* Autonomie et capacité d’adaptation
+* Travail en équipe
+* Communication avec des interlocuteurs variés
+* Analyse et résolution de problèmes
+
+---
+
+##  Me contacter
+
+* ✉️ [saestony.dev@gmail.com](mailto:saestony.dev@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/tony-saes-3a7a92366/)
+* 📍 Montpellier, France
+
+---
+
+⭐ N’hésitez pas à consulter mes dépôts ou à me contacter pour échanger autour d’une opportunité d’alternance.
